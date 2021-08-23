@@ -8,7 +8,7 @@ import NotificationsIcon from  "@material-ui/icons/Notifications";
 import Avatar from  "@material-ui/core/Avatar";
 
 function Header(){
-return(
+return(  
     <div  className="header">
 
   <div className="header_left">
