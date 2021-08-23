@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/htttp//hassancode1.github.io/youtube-clone/static/css/main.c35e3c04.chunk.css",
+    "main.js": "/htttp//hassancode1.github.io/youtube-clone/static/js/main.51250903.chunk.js",
+    "main.js.map": "/htttp//hassancode1.github.io/youtube-clone/static/js/main.51250903.chunk.js.map",
+    "runtime-main.js": "/htttp//hassancode1.github.io/youtube-clone/static/js/runtime-main.c3e99176.js",
+    "runtime-main.js.map": "/htttp//hassancode1.github.io/youtube-clone/static/js/runtime-main.c3e99176.js.map",
+    "static/js/2.df578bf8.chunk.js": "/htttp//hassancode1.github.io/youtube-clone/static/js/2.df578bf8.chunk.js",
+    "static/js/2.df578bf8.chunk.js.map": "/htttp//hassancode1.github.io/youtube-clone/static/js/2.df578bf8.chunk.js.map",
+    "index.html": "/htttp//hassancode1.github.io/youtube-clone/index.html",
+    "precache-manifest.33f75cb9e04bf875a5f637ae5a029f0d.js": "/htttp//hassancode1.github.io/youtube-clone/precache-manifest.33f75cb9e04bf875a5f637ae5a029f0d.js",
+    "service-worker.js": "/htttp//hassancode1.github.io/youtube-clone/service-worker.js",
+    "static/css/main.c35e3c04.chunk.css.map": "/htttp//hassancode1.github.io/youtube-clone/static/css/main.c35e3c04.chunk.css.map",
+    "static/js/2.df578bf8.chunk.js.LICENSE.txt": "/htttp//hassancode1.github.io/youtube-clone/static/js/2.df578bf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e99176.js",
+    "static/js/2.df578bf8.chunk.js",
+    "static/css/main.c35e3c04.chunk.css",
+    "static/js/main.51250903.chunk.js"
+  ]
+}
